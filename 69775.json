@@ -1,0 +1,45 @@
+{
+    "generated": "2023/01/13 00:34:15",
+    "version": "3.02",
+    "data": {
+        "title": "Pen-portraits of literary women, Volume I (of 2)",
+        "contributor": [
+            {
+                "name": "Various",
+                "role": "author"
+            },
+            {
+                "name": "Helen Gray Cone",
+                "role": "editor"
+            },
+            {
+                "name": "Jeannette L. Gilder",
+                "role": "editor"
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            }
+        ],
+        "scans_archive_url": [
+            "https://archive.org/details/penportraitsofli01coneuoft/page/n7/mode/2up"
+        ],
+        "credit": "The Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)",
+        "language": "English",
+        "publisher": "",
+        "publisher_country": "US",
+        "source_publication_years": [
+            "copyright:1887"
+        ],
+        "release_date": "January 13, 2023",
+        "copyrighted_work": false,
+        "ww": "rfrank@rfrank.net",
+        "request_key": "20220624175017cone",
+        "ebook_number": "69775",
+        "subtitle": "By themselves and others"
+    }
+}
